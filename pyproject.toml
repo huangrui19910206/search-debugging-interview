@@ -1,0 +1,12 @@
+[project]
+name = "search-service"
+version = "0.1.0"
+description = "A compact search-retrieval service for a debugging interview."
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

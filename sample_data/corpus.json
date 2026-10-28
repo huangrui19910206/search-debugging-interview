@@ -1,0 +1,7 @@
+[
+  {"id": "doc1", "text": "The quick brown fox jumps over the lazy dog"},
+  {"id": "doc2", "text": "A fast brown fox leaps over sleepy dogs"},
+  {"id": "doc3", "text": "Machine learning models rank documents by relevance"},
+  {"id": "doc4", "text": "BM25 is a ranking function used in information retrieval"},
+  {"id": "doc5", "text": "Inverted indexes map terms to the documents that contain them"}
+]
